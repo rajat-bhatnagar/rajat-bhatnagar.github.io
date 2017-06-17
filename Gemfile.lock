@@ -194,7 +194,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  html-pipeline
 
 BUNDLED WITH
    1.15.1
