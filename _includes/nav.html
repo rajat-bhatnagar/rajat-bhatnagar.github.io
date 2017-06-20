@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for rajat in site.data.menu %}
+    {% if rajat.subcategories != null %}
+    <li><a href="{{ rajat.href }}" class="page-link">{{ rajat.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in rajat.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ rajat.href }}" class="page-link">{{ rajat.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>

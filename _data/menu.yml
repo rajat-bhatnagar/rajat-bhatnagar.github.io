@@ -1,0 +1,35 @@
+- title: "Writing"
+  href: "/writing/"
+
+- title: "Projects"
+  href: "/projects/"
+
+- title: "Reading"
+  href: "/reading/"
+
+- title: "Videos"
+  href: "/videos/"
+
+- title: "Tags"
+  href: "/tags/"
+
+- title: "Miscellany"
+  href: "/miscellany/"
+
+#- title: "About"
+#  href: "/about/"
+
+#  subcategories:
+#    - subtitle: "Personal"
+#      subhref: "/projects/personal/"
+#    - subtitle: "Professional"
+#      subhref: "/projects/Professional/"
+
+#- title: "Blog"
+#  href: "/blog/"
+
+#- title: "CV"
+#  href: "/cv/"
+
+
+

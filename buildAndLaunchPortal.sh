@@ -1,1 +1,1 @@
-{ jekyll build; jekyll serve;}
+{ jekyll build; jekyll serve -I;}
