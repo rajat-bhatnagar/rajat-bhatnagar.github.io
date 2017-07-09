@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test One!"
+title:  "One!"
 date:   2017-07-09 15:36:27
 categories: api
 ---

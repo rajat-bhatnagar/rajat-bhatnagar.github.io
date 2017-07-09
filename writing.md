@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Writing
+title: Engineering Blog
 permalink: /writing/
 ---
-
-Tell us about your blog. Hopefully it's cool.
 
 <ul class="listing">
 {% for post in site.posts %}
