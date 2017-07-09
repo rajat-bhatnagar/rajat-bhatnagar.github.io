@@ -1,20 +1,23 @@
 - title: "Writing"
   href: "/writing/"
 
-- title: "Projects"
-  href: "/projects/"
-
-- title: "Reading"
-  href: "/reading/"
-
-- title: "Videos"
-  href: "/videos/"
-
 - title: "Tags"
-  href: "/tags/"
+  href: "/categories/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+#- title: "Projects"
+#  href: "/projects/"
+
+#- title: "Reading"
+#  href: "/reading/"
+
+#- title: "Videos"
+#  href: "/videos/"
+
+#- title: "Tags"
+#  href: "/tags/"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
 
 #- title: "About"
 #  href: "/about/"
@@ -30,6 +33,3 @@
 
 #- title: "CV"
 #  href: "/cv/"
-
-
-
