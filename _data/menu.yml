@@ -1,11 +1,14 @@
-- title: "Writing"
-  href: "/writing/"
-
 - title: "Tags"
   href: "/categories/"
 
-- title: "Travel"
-  href: "/travel/"
+- title: "Writing"
+  href: "/writing/"
+
+- title: "Reading"
+  href: "/reading/"
+
+- title: "Impossible List"
+  href: "/impossible/"
 
 #- title: "Projects"
 #  href: "/projects/"
