@@ -43,6 +43,40 @@
             </a>
           </li>
           {% endif %}
+
+            {% if site.facebook_username %}
+            <li>
+                <a href="https://facebook.com/{{ site.facebook_username }}">
+              <span class="icon  icon--facebook">
+               <svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46" role="img" aria-labelledby="facebook-icon">
+                   <title id="facebook-icon">Facebook</title>
+                   <path fill="#3C599A" d="M18.896 20.12h1.758v-1.708c0-.753.02-1.915.566-2.635.576-.762 1.368-1.28 2.73-1.28 2.218 0 3.15.316 3.15.316l-.438 2.605s-.73-.212-1.417-.212c-.684 0-1.296.245-1.296.93v1.985h2.803l-.194 2.547h-2.61v8.84h-3.297v-8.84h-1.758V20.12z"/>
+                   <path class="button--svg__border" fill="#E5E5E5" d="M23 3c11.027 0 20 8.972 20 20 0 11.027-8.973 20-20 20-11.028 0-20-8.973-20-20C3 11.972 11.972 3 23 3m0-2C10.85 1 1 10.85 1 23s9.85 22 22 22 22-9.85 22-22S35.15 1 23 1z"/>
+               </svg>
+              </span>
+
+                    <span class="username">{{ site.facebook_username }}</span>
+                </a>
+            </li>
+            {% endif %}
+
+            {% if site.linkedin_username %}
+            <li>
+                <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 50 512 512" >
+                    <path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
+        C50.104,72.691,72.612,50,100.377,50C128.143,50,150.65,72.691,150.65,100.682z M143.294,187.333H58.277V462h85.017V187.333z
+        M279.195,187.333h-81.541V462h81.541c0,0,0-101.877,0-144.181c0-38.624,17.779-61.615,51.807-61.615
+        c31.268,0,46.289,22.071,46.289,61.615c0,39.545,0,144.181,0,144.181h84.605c0,0,0-100.344,0-173.915
+        s-41.689-109.131-99.934-109.131s-82.768,45.369-82.768,45.369V187.333z"/>
+                </svg>
+              </span>
+
+                    <span class="username">{{ site.linkedin_username }}</span>
+                </a>
+            </li>
+            {% endif %}
         </ul>
       </div>
 

@@ -21,6 +21,6 @@ Things I have aways wanted to do and think are possible but you do not have the 
       <li><p>Loose weight and Have a flat <em>stomach</em>...</p></li>
       <li><p><em>Zipline-ing</em>.</p></li>
       <li><p><em>Para-sailing</em>.</p></li>
-      <li><p>Doctorate In Computer Science - For Dr. Rishi Raj Bhatnagar</p></li>
+      <li><p>Doctorate In Computer Science - For <b>Father</b> Dr. Rishi Raj Bhatnagar</p></li>
    </ol>
 </div>
