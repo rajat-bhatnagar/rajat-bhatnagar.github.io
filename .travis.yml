@@ -12,6 +12,7 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
+  - master
   - refactor/travis_integration
 
 env:
