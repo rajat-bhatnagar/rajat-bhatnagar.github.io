@@ -24,3 +24,6 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+
+#Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
+exclude: [vendor]
