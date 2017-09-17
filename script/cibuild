@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+echo "Building site."
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --disable-external
+
+echo "Serving files"
+bundle exec htmlproofer  --allow-hash-href ./_site --disable-external
