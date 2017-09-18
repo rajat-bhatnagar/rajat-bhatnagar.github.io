@@ -3,7 +3,7 @@ title:  "Anti Pattern"
 layout: post
 permalink: /writing/2018/09/Test-One/
 date:   2017-09-17 15:36:27
-categories: [Anti Pattern, Coding]
+categories: [anti-pattern, coding]
 format: quote
 ---
 There are many many anti-patterns.
