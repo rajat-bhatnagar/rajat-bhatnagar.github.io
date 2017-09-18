@@ -8,3 +8,4 @@
  - **Completed_17th_September_2017**Refactor project and remove unused files
  - 30 Blog Posts
  - 30 You Tube Videos
+ - Add website icon
