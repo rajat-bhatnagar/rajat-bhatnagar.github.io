@@ -7,7 +7,13 @@ categories: [Anti Pattern, Coding]
 format: quote
 ---
 There are many many anti-patterns.
+
+Check out the [AntiPatterns Catalog][antipatterns] for more info.
+
+[antipatterns]:      https://web.archive.org/web/20161231130810/http://wiki.c2.com/?AntiPatternsCatalog
+
 Anti Patterns are the things developers repeatedly do , that produce negative consequences.
+
 They can stem out from various places. The following behavior should always be avoided
 1. Haste : Producing low quality source code out of fear of delivery due to stringent and aggressive project deadlines
 2. Apathy : Lack of concern about the problem or it's outcome
