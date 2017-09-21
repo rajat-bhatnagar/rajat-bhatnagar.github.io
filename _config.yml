@@ -27,3 +27,6 @@ excerpt_separator: "<!--more-->"
 
 #Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
 exclude: [vendor]
+
+#Allow future posts with a date in future to be published
+future: true

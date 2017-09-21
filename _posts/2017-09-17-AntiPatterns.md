@@ -1,7 +1,7 @@
 ---
 title:  "Anti Pattern"
 layout: post
-permalink: /writing/2018/09/Test-One/
+permalink: /writing/2017/09/anti-pattern/
 date:   2017-09-17 15:36:27
 categories: [anti-pattern, coding]
 format: quote
