@@ -1,9 +1,8 @@
 ---
 layout: page
+title: "Coding"
 permalink: /reading/
 ---
-
-# Coding<br>
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
 <a href="https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io" target="_blank">Travis Continuous Integration Portal for rajat-bhatnagar.github.io</a><br>
 
