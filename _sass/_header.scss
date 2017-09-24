@@ -12,23 +12,16 @@
 }
 
 .site-title {
+    font-family: 'Pacifico', cursive;
     font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-    font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
-    &,
-    &:visited {
-        color: #ffffff;
-    }
-    &,
-    &:hover {
-	text-decoration: none;
-}
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    color: #2B0F67;
+        &:visited {
+            color: #2B0F67;
+        }
+
 }
 
 .site-header .wrapper {
@@ -37,7 +30,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: #2B0F67;
 }
 
 .site-nav ul {
@@ -70,7 +63,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: #2B0F67;
 }
 
 /* Sub Menu */
@@ -156,7 +149,7 @@ z-index:999;
     }
 
     .page-link {
-        color: #ffffff;
+        color: #2B0F67;
     background: $clemson-orange;
         line-height: $base-line-height;
 
