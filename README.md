@@ -6,7 +6,7 @@
  - Add LinkedIn and facebook profile icon(Completed_16th_September_2017)
  - Add free build environment on Travis, with GitHub integration for pull requests (Completed_17th_September_2017)
  - Refactor project and remove unused files (Completed_17th_September_2017)
- - Add Disqus for social comments
+ - Add Disqus for social comments(Completed_24th_September_2017)
  - 30 Blog Posts
  - 30 You Tube Videos
  - Add website icon
