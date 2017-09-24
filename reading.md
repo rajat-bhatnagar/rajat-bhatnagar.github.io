@@ -6,6 +6,9 @@ permalink: /reading/
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
 <a href="https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io" target="_blank">Travis Continuous Integration Portal for rajat-bhatnagar.github.io</a><br>
 
+# Analytics
+<a href="https://disqus.com/admin/" target="_blank">disqus</a> <br>
+
 # Read about your craft to stay current <br>
 <a href="https://www.infoq.com/" target="_blank">infoq</a> <t>|</t>
 <a href="https://dzone.com" target="_blank">dZone</a> <t>|</t>

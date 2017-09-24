@@ -5,6 +5,7 @@ permalink: /writing/2017/09/anti-pattern/
 date:   2017-09-17 15:36:27
 categories: [anti-pattern, coding]
 format: quote
+comments: true
 ---
 There are many many anti-patterns.
 

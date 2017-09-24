@@ -13,7 +13,7 @@ script: ./script/cibuild
 branches:
   only:
   - master
-  - refactor/travis_integration
+  - refactor/disqus_integration
 
 env:
   global:

@@ -8,6 +8,7 @@ format: quote
 tags:
     - coding
 excerpt: "Software Manifesto."
+comments: true
 ---
 
 Check out the below links for more info ::

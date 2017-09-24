@@ -4,6 +4,7 @@ title:  "Development Environment Set up on Fedora"
 permalink: /writing/2017/09/Set_Up_Fedora_On_Mac_And_Necessary_Development_Tools/
 date:   2017-09-09 10:00:27
 categories: [tools, linux]
+comments: true
 ---
 
 ## Getting and Running the Image :
