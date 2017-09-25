@@ -8,6 +8,11 @@
  - Refactor project and remove unused files (Completed_17th_September_2017)
  - Add Disqus for social comments(Completed_24th_September_2017)
  - Add website icon(Completed_24th_September_2017)
+ - Integrate Google Analytics and Search Engine Optimization
  - Make Readme.md in a tabular format
  - 30 Blog Posts
  - 30 You Tube Videos
+ - Include personal touch by a kick off video presentation on opening page
+ - Implement Web Content Accessibility Guidelines
+ - Include Animation on Jekyll Site
+ - Stop promotion of code to github if travis build fails
