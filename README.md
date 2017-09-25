@@ -7,7 +7,7 @@
  - Add free build environment on Travis, with GitHub integration for pull requests (Completed_17th_September_2017)
  - Refactor project and remove unused files (Completed_17th_September_2017)
  - Add Disqus for social comments(Completed_24th_September_2017)
+ - Add website icon(Completed_24th_September_2017)
+ - Make Readme.md in a tabular format
  - 30 Blog Posts
  - 30 You Tube Videos
- - Add website icon
- - Make Readme.md in a tabular format
