@@ -11,6 +11,7 @@ permalink: /reading/
 <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> <t>|</t>
 <a href="https://developers.google.com/" target="_blank">Google Developers</a> <t>|</t>
 <a href="https://developer.amazon.com/" target="_blank">Amazon Developers</a> <t>|</t>
+<a href="https://developers.redhat.com/" target="_blank">Redhat Developer Program</a> <t>|</t>
 <a href="http://www.jhipster.tech//" target="_blank">jHipster</a> <br>
 
 ### Read about your craft to stay current
