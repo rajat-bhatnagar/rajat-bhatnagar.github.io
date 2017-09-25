@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to write a Jekyll Post!"
+title:  "How to write a Jekyll Post"
 date:   2015-01-01 15:36:27
 permalink: /writing/2015/01/Test-Two/
 categories: jekyll
