@@ -1,8 +1,8 @@
 ---
 layout: page
+title: "Coding { The Best pilots know the plane they are flying inside out }"
 permalink: /reading/
 ---
-### Coding | The Best pilots know the plane they are flying inside out
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
 <a href="https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io" target="_blank">Travis Continuous Integration Portal for rajat-bhatnagar.github.io</a><br>
 
