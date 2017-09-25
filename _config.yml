@@ -30,3 +30,6 @@ exclude: [vendor]
 
 #Allow future posts with a date in future to be published
 future: true
+
+#Add favicon
+favicon: "/images/favicon.ico"
