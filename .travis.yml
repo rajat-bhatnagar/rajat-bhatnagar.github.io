@@ -13,7 +13,7 @@ script: ./script/cibuild
 branches:
   only:
   - master
-  - refactor/add_favicon
+  #- refactor/add_favicon
 
 env:
   global:
