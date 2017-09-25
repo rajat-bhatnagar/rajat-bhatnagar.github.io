@@ -16,3 +16,7 @@
  - Implement Web Content Accessibility Guidelines
  - Include Animation on Jekyll Site
  - Stop promotion of code to github if travis build fails
+ - Add a donate link
+ - Add MIT License
+ - Implement google search functionality on portal
+ - Add Contact me information or page
