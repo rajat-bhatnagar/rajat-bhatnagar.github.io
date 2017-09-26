@@ -1,3 +1,4 @@
+https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io.svg?branch=master
 # rajat-bhatnagar.github.io
 > **Plan :**
  - Initial Commit by creating a new website layout using jekyll new (Completed_17th_June_2017)
