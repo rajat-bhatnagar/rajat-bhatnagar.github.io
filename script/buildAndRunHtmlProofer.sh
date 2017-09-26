@@ -1,4 +1,5 @@
 {
+cd ..
 echo " ####### Building Site #######"
 bundle exec jekyll build;
 echo " ### Running HTML Proofer to check internal links ###"

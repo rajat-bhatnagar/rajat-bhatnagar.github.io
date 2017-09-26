@@ -1,4 +1,5 @@
 {
+cd ..
 echo " ################# Cleaning Site #################"
 jekyll clean;
 echo " ################# Building Site #################"
