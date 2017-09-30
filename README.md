@@ -13,6 +13,7 @@ My Travis CI! (<https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io/
  -  ✔︎ Add Disqus for social comments(Completed_24th_September_2017)
  -  ✔︎ Add website icon(Completed_24th_September_2017)
  -  Integrate Google Analytics and Search Engine Optimization
+ -  Include Number of visits on each page, Make use of google analytics
  -  Make Readme.md in a tabular format
  -  30 Blog Posts
  -  30 You Tube Videos
@@ -24,3 +25,5 @@ My Travis CI! (<https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io/
  -  Add MIT License
  -  ︎Implement google search functionality on portal
  -  Add Contact me information or page
+ -  Create a scroll to top icon on right side of all web pages, bottom right
+ -  Show Home location map at the bottom of page
