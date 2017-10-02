@@ -30,3 +30,9 @@ permalink: /reading/
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists" target="_blank">Markdown-Cheatsheet</a> <t>|</t>
 <a href="https://www.goodreads.com/Rajat_Bhatnagar" target="_blank">GoodReads</a> <t>|</t>
 <a href="http://algs4.cs.princeton.edu/home/" target="_blank">Algorithms</a><br>
+
+##Editors
+https://codebeautify.org
+http://prose.io/
+https://jsonformatter.org
+https://stackedit.io/editor
