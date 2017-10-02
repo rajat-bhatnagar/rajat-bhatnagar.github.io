@@ -1,10 +1,21 @@
 ---
-layout: page
+layout: post
 title: "Coding { The Best pilots know the plane they are flying inside out }"
 permalink: /reading/
 ---
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
 <a href="https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io" target="_blank">Travis Continuous Integration Portal for rajat-bhatnagar.github.io</a><br>
+[Markdown Editor] [markdownEditor] |
+[Prose] [prose] |
+[Programming Editors] [codeBeautify] | 
+[FormatJSON] [jsonFormatter] | 
+[WebsiteTester] [responsiveWebsiteTester]
+
+[codeBeautify]: https://codebeautify.org
+[prose]: http://prose.io/
+[jsonFormatter]:  https://jsonformatter.org
+[markdownEditor]: https://stackedit.io/editor
+[responsiveWebsiteTester]: https://codebeautify.org/responsive-website-tester
 
 ### Developer Programs | Follow Patterns and Repeatable processes that produce positive results
 <a href="https://developer.github.com/" target="_blank">Github Developer Program</a> <t>|</t>
@@ -30,9 +41,3 @@ permalink: /reading/
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists" target="_blank">Markdown-Cheatsheet</a> <t>|</t>
 <a href="https://www.goodreads.com/Rajat_Bhatnagar" target="_blank">GoodReads</a> <t>|</t>
 <a href="http://algs4.cs.princeton.edu/home/" target="_blank">Algorithms</a><br>
-
-##Editors
-https://codebeautify.org
-http://prose.io/
-https://jsonformatter.org
-https://stackedit.io/editor
