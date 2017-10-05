@@ -12,6 +12,11 @@ comments: true
 | Ctrl + L       | Clears the Screen |  
 | ls -al /etc    | List the contents of /etc directory (You do not need to be in the directory to list contents) |
 | rm -rf /dir1/  | If you want to delete a directory and all of its contents, use the command rm -rf |
+| echo $SHELL    | This command finds your default shell |
+| grep           | Pattern Matching|
+| egrep          | grep command for extended regular expressions |
+| >>             | Appends to the end of the file |
+| >              | Redirects to a file |  
 | find path pattern | If you do not specify a path, find starts in the current working directory and looks through all subdirectories for the specified pattern|
 
 {% highlight bash %}
