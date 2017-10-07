@@ -3,6 +3,7 @@ layout: post
 title: "Coding { The Best pilots know the plane they are flying inside out }"
 permalink: /reading/
 ---
+<a href="https://gist.github.com/rajat-bhatnagar" target="_blank">MyGist</a> <t>|</t>
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
 <a href="https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io" target="_blank">Travis Continuous Integration Portal for rajat-bhatnagar.github.io</a><br>
 [Markdown Editor] [markdownEditor] |
@@ -36,6 +37,7 @@ permalink: /reading/
 <a href="https://disqus.com/admin/" target="_blank">disqus</a> <t>|</t>
 <a href="https://realfavicongenerator.net/" target="_blank">Favicon Generator</a> <t>|</t>
 <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> <br>
+<a href="https://octicons.github.com/" target="_blank">Your project. GitHub's icons - See Usage</a> <br>
 
 ### Others
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists" target="_blank">Markdown-Cheatsheet</a> <t>|</t>
