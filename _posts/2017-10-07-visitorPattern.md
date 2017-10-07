@@ -2,7 +2,7 @@
 layout: post
 title:  "Visitor Pattern"
 date:   2017-10-07 15:36:27
-permalink: /writing/2015/10/visitorPattern.md/
+permalink: /writing/2015/10/visitorPattern/
 categories: [pattern, coding]
 comments: true
 ---
