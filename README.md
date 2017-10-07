@@ -27,3 +27,4 @@ My Travis CI! (<https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io/
  -  Add Contact me information or page
  -  Create a scroll to top icon on right side of all web pages, bottom right
  -  Show Home location map at the bottom of page
+ -  Include Table to content similar to a wiki on one of the pages
