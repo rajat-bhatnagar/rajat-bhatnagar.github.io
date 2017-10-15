@@ -6,7 +6,8 @@ permalink: /impossible/
 - ~~**Balloon Ride**~~
 - ~~**Skydiving**~~
 - ~~**Rowing**~~
-{% include image.html url="/images/header_snowboarders-2089706_1280.jpg" width="450" align="right" %}
+{% include image.html url="/images/header_snowboarders-2089706_1280.jpg"
+ width=450 align="right" caption="Everything is possible" %}
 - Zipline-ing
 - Para-sailing
 - Complete a Marathon
