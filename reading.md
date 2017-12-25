@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Coding { The Best pilots know the plane they are flying inside out }"
+title: 'Coding { The Best pilots know the plane they are flying inside out }'
 permalink: /reading/
+published: true
 ---
 <a href="https://gist.github.com/rajat-bhatnagar" target="_blank">MyGist</a> <t>|</t>
 <a href="http://start.spring.io" target="_blank">Spring Initializr</a> <t>|</t>
@@ -43,3 +44,7 @@ permalink: /reading/
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists" target="_blank">Markdown-Cheatsheet</a> <t>|</t>
 <a href="https://www.goodreads.com/Rajat_Bhatnagar" target="_blank">GoodReads</a> <t>|</t>
 <a href="http://algs4.cs.princeton.edu/home/" target="_blank">Algorithms</a><br>
+
+### Full Stack Web Developer
+<a href="https://codepen.io" target="_blank">Code Pen</a> <t>|</t>
+<a href="http://jsbin.com" target="_blank">JS Bin</a><br>
