@@ -26,6 +26,8 @@ I have put this blog in place to keep a track and check my progress on declutter
 > -  **Bank Accounts**
 > -  **Social Accounts**
 
+[TheMinimalists - web link for future reference](https://www.theminimalists.com)
+
 What are the minimum absolute tools or things required for me to do what is required ?
 
 #### **Softwares** ####
