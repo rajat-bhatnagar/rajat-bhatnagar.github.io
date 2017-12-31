@@ -9,3 +9,5 @@ comments: true
 Check out the [Template Pattern] [templatePattern] for more info.
 
 [templatePattern]: http://wiki.c2.com/?TemplateMethodPattern
+
+----------

@@ -9,3 +9,5 @@ comments: true
 Check out the [State Pattern] [statePattern] for more info.
 
 [statePattern]: http://wiki.c2.com/?StatePattern
+
+----------

@@ -38,3 +38,5 @@ Workout Regime :
  1.  Remain Opposite to Assault Air bike and do the tro and fro movement fast, I was hitting 40 RPM
 
 Overall I was able to do well and after the workout had a discussion with the coach. I need to work on my flexibility and strengthen my core.
+
+----------

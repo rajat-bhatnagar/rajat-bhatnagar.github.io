@@ -9,3 +9,5 @@ comments: true
 Check out the [Visitor Pattern] [visitorPattern] for more info.
 
 [visitorPattern]: http://wiki.c2.com/?VisitorPattern
+
+----------

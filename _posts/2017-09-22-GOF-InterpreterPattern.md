@@ -10,3 +10,5 @@ comments: true
 Check out the [Interpreter Design Pattern][interpreterPattern] for more info.
 
 [interpreterPattern]:  http://wiki.c2.com/?InterpreterPattern
+
+----------

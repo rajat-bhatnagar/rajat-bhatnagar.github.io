@@ -10,3 +10,5 @@ comments: true
 Check out the [Composite Design Pattern][compositeDesignPattern] for more info.
 
 [compositeDesignPattern]:  http://wiki.c2.com/?CompositePattern
+
+----------

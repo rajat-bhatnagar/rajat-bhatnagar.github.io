@@ -10,3 +10,5 @@ comments: true
 Check out the [Builder Design Pattern][builderPattern] for more info.
 
 [builderPattern]:  http://wiki.c2.com/?BuilderPattern
+
+----------

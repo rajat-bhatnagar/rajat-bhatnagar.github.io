@@ -9,3 +9,5 @@ comments: true
 Check out the [Factory Pattern] [factoryPattern] for more info.
 
 [factoryPattern]: http://wiki.c2.com/?FactoryMethodPattern
+
+----------

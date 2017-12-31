@@ -12,3 +12,6 @@ markdown: kramdown
 {% endhighlight %}
 
 Kramdown, in turn, is set by default to support the automatic generation of header IDs during conversion. Kramdown (also by default) supports the automatic generation of the table of contents of all headers that have an ID set.
+
+
+----------

@@ -9,3 +9,5 @@ comments: true
 Check out the [Strategy Pattern] [strategyPattern] for more info.
 
 [strategyPattern]: http://wiki.c2.com/?StrategyPattern
+
+----------

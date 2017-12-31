@@ -33,3 +33,4 @@ Workout Regime :
 caption="Diet Routine as per Coach" width=225 align="left" %}
 As per my coach , my diet needs to be modified , I am eating a lot of Complete Carbohydrate diet and my morning breakfast of 2 apple juice sucks as that is direct fructose to my body. My favourite drink of carmel macchiato coffee also needs to wander off in dust . SIGH.... Also my in between snacks of dry fruits(Almonds + Cashew + Walnuts + Pistachios) needs to be regulated as that is a lot of calories . All of these inputs were a big eye opener and i realized why my weight had suddenly shot up.
 
+----------

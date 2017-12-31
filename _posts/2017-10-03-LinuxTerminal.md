@@ -30,3 +30,5 @@ Password:
 
 ## YaY ! The file opens in an editor
 {% endhighlight %}
+
+----------

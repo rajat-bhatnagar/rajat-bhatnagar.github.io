@@ -7,3 +7,5 @@ categories: [lambda, java]
 comments: true
 ---
 Think about lambda expressions as a compact way of passing around behavior.
+
+----------

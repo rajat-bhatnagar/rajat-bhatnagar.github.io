@@ -9,3 +9,5 @@ comments: true
 Check out the [Command Pattern] [commandPattern] for more info.
 
 [commandPattern]: http://wiki.c2.com/?CommandPattern
+
+----------

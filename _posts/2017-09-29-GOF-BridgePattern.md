@@ -10,3 +10,5 @@ comments: true
 Check out the [Bridge Design Pattern][bridgeDesignPattern] for more info.
 
 [bridgeDesignPattern]:  http://wiki.c2.com/?BridgePattern
+
+----------

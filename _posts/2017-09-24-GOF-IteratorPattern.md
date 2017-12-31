@@ -10,3 +10,5 @@ comments: true
 Check out the [Iterator Design Pattern][iteratorPattern] for more info.
 
 [iteratorPattern]:  http://wiki.c2.com/?IteratorPattern
+
+----------
