@@ -2,7 +2,7 @@
 layout: post
 title:  "Crawling Day One"
 date:   2017-12-31 16:59:27
-permalink: /writing/2017/12/crawling0/
+permalink: /writing/2017/12/crawlingDay1/
 categories: [fitness]
 comments: true
 ---
