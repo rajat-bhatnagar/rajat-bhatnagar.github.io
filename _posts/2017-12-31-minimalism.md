@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Incorporating Minimalism in my life starting 2018"
+title:  "Incorporating Minimalism in my life"
 date:   2017-12-31 15:36:27
 permalink: /writing/2017/12/minimalism0/
 categories: [life]
