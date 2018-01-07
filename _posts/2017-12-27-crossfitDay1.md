@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crossfit Day One"
+title:  "Crossfit workout #1"
 date:   2017-12-27 15:36:27
 permalink: /writing/2017/12/crossfitDay1/
 categories: [crossfit, fitness]

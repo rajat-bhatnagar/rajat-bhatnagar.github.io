@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crawling Day One"
+title:  "Crawling workout #1"
 date:   2017-12-31 16:59:27
 permalink: /writing/2017/12/crawlingDay1/
 categories: [fitness]
