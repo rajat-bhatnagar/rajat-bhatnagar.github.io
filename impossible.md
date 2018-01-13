@@ -7,7 +7,7 @@ permalink: /impossible/
 - ~~**Skydiving**~~
 - ~~**Rowing**~~
 - ~~**Join Crossfit and complete their workouts**~~
-- 30 Blog Posts
+- ~~**30 Blog Posts**~~
  - Bench Press 200 Pounds
  - Complete 200 Push ups without stopping
 	 - 50 Push ups
