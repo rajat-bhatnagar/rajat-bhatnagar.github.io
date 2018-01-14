@@ -4,6 +4,7 @@ title:  "Crossfit workout #3"
 date:   2018-01-05 15:36:27
 permalink: /writing/2018/01/crossfitDay3/
 categories: [crossfit, fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 

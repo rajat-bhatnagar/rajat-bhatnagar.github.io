@@ -4,6 +4,7 @@ title:  "Shell Script Template"
 date:   2017-10-04 15:36:27
 permalink: /writing/2015/10/ShellScriptTemplate/
 categories: [linux, terminal, shell, scripting]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 The primary principle of a shell script is to automate repetitive and complex tasks.

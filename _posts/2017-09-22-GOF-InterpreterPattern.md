@@ -4,6 +4,7 @@ title:  "Interpreter Design Pattern"
 date:   2017-09-22 15:36:27
 permalink: /writing/2017/09/InterpreterPattern/
 categories: [pattern, coding]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 

@@ -4,6 +4,7 @@ title:  "Exercise Research"
 date:   9999-12-31 15:36:27
 permalink: /writing/9999/12/Template/
 categories: [fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 

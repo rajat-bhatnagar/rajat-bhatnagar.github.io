@@ -4,6 +4,7 @@ title:  "Crawling workout #2"
 date:   2018-01-02 16:59:27
 permalink: /writing/2018/02/crawlingDay2/
 categories: [fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 **Weather**: Cold

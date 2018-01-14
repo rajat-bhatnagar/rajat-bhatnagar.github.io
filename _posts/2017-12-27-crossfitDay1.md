@@ -4,6 +4,7 @@ title:  "Crossfit workout #1"
 date:   2017-12-27 15:36:27
 permalink: /writing/2017/12/crossfitDay1/
 categories: [crossfit, fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 I have always been intrigued by **Crossfit**, and this started from the time I watched [Fittest on Earth: A Decade of Fitness](http://www.imdb.com/title/tt6491170/) on Netflix. Even before I relocated to MN from CT earlier this month, i was hell bent on joining CrossFit and experimenting what it could do for me.

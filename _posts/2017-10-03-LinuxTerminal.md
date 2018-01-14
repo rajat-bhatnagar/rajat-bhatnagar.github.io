@@ -4,6 +4,7 @@ layout: post
 permalink: /writing/2017/10/linuxTerminal/
 date:   2017-10-03 15:36:27
 categories: [linux, terminal]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 

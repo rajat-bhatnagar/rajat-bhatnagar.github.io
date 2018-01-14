@@ -4,6 +4,7 @@ title:  "Crawling workout #3"
 date:   2018-01-12 16:59:27
 permalink: /writing/2018/12/crawlingDay3/
 categories: [fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 **Weather**: Cold
@@ -23,27 +24,6 @@ Workout Regime :
 1. 7 sets of 20
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -4,6 +4,7 @@ title:  "Incorporating Minimalism in my life"
 date:   2017-12-31 15:36:27
 permalink: /writing/2017/12/minimalism0/
 categories: [life]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 Alright, another idea and pattern which stemmed off from Netflix documentary on [Minimalism](https://www.netflix.com/title/80114460).

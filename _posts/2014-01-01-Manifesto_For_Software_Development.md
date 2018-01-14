@@ -8,6 +8,7 @@ format: quote
 tags:
     - coding
 excerpt: "Software Manifesto."
+author: "Rajat Bhatnagar"
 comments: true
 ---
 

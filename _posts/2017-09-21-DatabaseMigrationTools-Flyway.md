@@ -4,6 +4,7 @@ title:  "Database Migration Tools - Flyway"
 date:   2017-09-21 15:36:27
 permalink: /writing/2017/09/databaseMigrationToolsFlyway/
 categories: [database, tools]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 Check out the [Flyway][flyway] site for more info.

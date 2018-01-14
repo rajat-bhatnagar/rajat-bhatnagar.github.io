@@ -4,6 +4,7 @@ title:  "Crossfit workout #2"
 date:   2017-12-29 15:36:27
 permalink: /writing/2017/12/crossfitDay2/
 categories: [crossfit, fitness]
+author: "Rajat Bhatnagar"
 comments: true
 ---
 Alright, Second day of Crossfit.  I was excited as usual but the weather was awfully cold.
