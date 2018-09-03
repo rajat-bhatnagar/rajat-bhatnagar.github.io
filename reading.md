@@ -48,3 +48,7 @@ published: true
 ### Full Stack Web Developer
 <a href="https://codepen.io" target="_blank">Code Pen</a> <t>|</t>
 <a href="http://jsbin.com" target="_blank">JS Bin</a><br>
+
+### Mac and OSX Specific
+<a href="https://sdkman.io/" target="_blank">sdkman - Software Development Kit Manager</a> <t>|</t>
+<a href="https://brew.sh/" target="_blank">Homebrew - The missing package manager for macOS</a><br>
