@@ -52,3 +52,9 @@ published: true
 ### Mac and OSX Specific
 <a href="https://sdkman.io/" target="_blank">sdkman - Software Development Kit Manager</a> <t>|</t>
 <a href="https://brew.sh/" target="_blank">Homebrew - The missing package manager for macOS</a><br>
+
+### A Better Programmer
+<a href="https://codegym.cc/" target="_blank">CodeGym</a> <t>|</t>
+<a href="https://www.codingame.com/start" target="_blank">CodinGame</a><br>
+<a href="https://www.codewars.com/" target="_blank">Codewars</a><br>
+<a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a><br>
