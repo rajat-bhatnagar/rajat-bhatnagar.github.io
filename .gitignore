@@ -39,3 +39,6 @@ rajat-bhatnagar.github.io.iml
 
 #Ruby lock file
 GemFile.lock
+
+.jekyll-cached/**
+website.iml
