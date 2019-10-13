@@ -42,3 +42,4 @@ GemFile.lock
 
 .jekyll-cached/**
 website.iml
+.jekyll-cache/**
