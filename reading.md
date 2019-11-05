@@ -58,3 +58,7 @@ published: true
 <a href="https://www.codingame.com/start" target="_blank">CodinGame</a><br>
 <a href="https://www.codewars.com/" target="_blank">Codewars</a><br>
 <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a><br>
+
+### Algorithms and Other References
+<a href="https://introcs.cs.princeton.edu/java/home/" target="_blank">Programming in Java</a> <br>
+<a href="https://algs4.cs.princeton.edu/home/" target="_blank">Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne</a> <br>
