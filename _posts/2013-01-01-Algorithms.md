@@ -1,5 +1,5 @@
 ---
-title:  "Manifesto for Software Development"
+title:  "Algorithms"
 layout: post
 permalink: /writing/2013/01/Algorithms/
 date:   2013-01-01 15:36:27
