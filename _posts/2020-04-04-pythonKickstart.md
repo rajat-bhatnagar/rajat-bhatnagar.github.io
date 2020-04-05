@@ -32,7 +32,7 @@ Python :
 - Big Data
 - [Application Scripting](https://docs.blender.org/api/current/index.html)
 
-
+- **Python For EveryBody** - [Book](https://www.py4e.com/)
 
 
 
