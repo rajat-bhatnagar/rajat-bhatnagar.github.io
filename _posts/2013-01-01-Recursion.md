@@ -41,7 +41,7 @@ comments: true
 | [Mandelbrot Set](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1178//yeah/fractals/yeah_fractals.pdf)      |
 | Grammar Solver                                                                                                       |
 | [Fast Factorial Functions](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm)                          |
-| [Github Repo for Fast Factorial Functions](https://github.com/PeterLuschny/Fast-Factorial-Functions)
+| [Github Repo for Fast Factorial Functions](https://github.com/PeterLuschny/Fast-Factorial-Functions/tree/master/JavaFactorial/src/de/luschny/math/factorial)
 
 ----------
 
