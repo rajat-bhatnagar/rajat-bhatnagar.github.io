@@ -1,8 +1,8 @@
 ---
 title:  "Manifesto for Software Development"
 layout: post
-permalink: /writing/2014/01/Manifesto/
-date:   2014-01-01 15:36:27
+permalink: /writing/2010/12/Manifesto/
+date:   2010-12-12 15:36:27
 categories: [coding]
 format: quote
 tags:

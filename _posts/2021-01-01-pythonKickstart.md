@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Python - Notes"
-date:   2020-04-04 16:59:27
-permalink: /writing/2020/04/pythonKickstart/
-categories: [python]
+title:  "Python - Programming"
+date:   2021-01-01 16:59:27
+permalink: /writing/2021/01/pythonKickstart/
+categories: [coding]
 author: "Rajat Bhatnagar"
 comments: true
 ---
