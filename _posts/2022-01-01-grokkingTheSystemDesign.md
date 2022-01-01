@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "grokkingTheSystemDesign"
-date:   2022-01-01 22:00:27
+date:   2022-01-01 20:00:00
 permalink: /writing/2022/01/grokkingTheSystemDesign/
 categories: [systemDesign]
 author: "Rajat Bhatnagar"
