@@ -19,34 +19,26 @@ References:
 - [https://in.indeed.com/career-advice/interviewing/system-design-interview-questions](https://in.indeed.com/career-advice/interviewing/system-design-interview-questions)
 
 
-####Steps to take on an open ended design problem that does not have a standard solution
-    -  Ask Clarifying Questions   
-            Functional Requirements / Non Functional Requirements / Extended requirements (Analytics, Accessibility by other services)
-    -  Back of the Envelope Estimation
-            Capacity Estimations and Constraints
-    -  System Interface Definition
-            After finalizing the system requirements, define the System APIs. This should expliciylt stte what is required from the system
-    -  Defining Data Model
-            Defining the database schema in the early stages of the interview would help to understand the data flow among various components and later would guide towards data partiotioning
-    -  High Level Design 
-    -  Detailed Design 
-    -  Identifying and Resolving Bottlenecks
+**Steps to take on an open ended design problem that does not have a standard solution**
+-  Ask Clarifying Questions
+    -   Functional Requirements
+    -  Non Functional Requirements
+    - Extended requirements (Analytics, Accessibility by other services)
+-  Back of the Envelope Estimation Capacity
+-  Estimations and Constraints
+-  System Interface Definition
+    - After finalizing the system requirements, define the System APIs. This should expliciylt stte what is required from the system
+- Defining Data Model
+    -  Defining the database schema in the early stages of the interview would help to understand the data flow among various components and later would guide towards data partiotioning
+- High Level Design
+- Detailed Design
+- Identifying and Resolving Bottlenecks
 
-###PROBLEM 1 - Design a URL shortening service like tinyURL
-  - Existing Services in the Marketplace
-    - [bit/ly](https://bitly.com)
+**Kata 1** - ***Design a URL shortening service like tinyURL***
+- Existing Services in the Marketplace
     - [ow.ly](https://www.hootsuite.com/pages/owly)
     - [short.io](https://short.io)
-
-
-
-
-
-
-
-
-
-
+    -  [bit/ly](https://bitly.com)  
 
 
 
