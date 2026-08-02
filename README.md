@@ -1,6 +1,55 @@
-# About this repository [![Build Status](https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io.svg?branch=master)](https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io)
+# About this repository
 
-My Travis CI! (<https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io/>)
+This Jekyll site is deployed to GitHub Pages with GitHub Actions.
+
+For a private repository, GitHub Pages must be enabled for the repository's plan, and the Pages source should be set to GitHub Actions in repository settings.
+
+## Local build check
+
+Use these steps before merging or deploying a branch:
+
+1. Install Ruby 3.0 or newer and Bundler.
+2. Install the site dependencies:
+
+   ```bash
+   bundle install
+   ```
+
+3. Build the site locally:
+
+   ```bash
+   JEKYLL_ENV=production bundle exec jekyll clean
+   JEKYLL_ENV=production bundle exec jekyll build
+   ```
+
+4. Check generated links without requiring external network access:
+
+   ```bash
+   bundle exec htmlproofer ./_site --allow-hash-href --disable-external
+   ```
+
+5. Preview the branch locally:
+
+   ```bash
+   bundle exec jekyll serve --livereload
+   ```
+
+   Open <http://127.0.0.1:4000/>.
+
+## Deployment check
+
+After a branch is merged into `master`, GitHub Actions should run `.github/workflows/jekyll-pages.yml` and deploy the generated `_site` artifact to GitHub Pages.
+
+If deployment is broken after making the repository private, check:
+
+1. Repository `Settings -> Pages -> Build and deployment` is set to `GitHub Actions`.
+2. The account plan supports GitHub Pages for private repositories. GitHub Pages is available for private repositories on GitHub Pro, GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server.
+3. The `Deploy Jekyll site to GitHub Pages` workflow completed successfully on `master`.
+4. The Pages site is enabled. With GitHub CLI, this should return the Pages configuration instead of `404`:
+
+   ```bash
+   gh api repos/rajat-bhatnagar/rajat-bhatnagar.github.io/pages
+   ```
 
 # rajat-bhatnagar.github.io
 > **Plan :**
@@ -20,7 +69,7 @@ My Travis CI! (<https://travis-ci.org/rajat-bhatnagar/rajat-bhatnagar.github.io/
  -  Include personal touch by a kick off video presentation on opening page
  -  Implement Web Content Accessibility Guidelines
  -  Include Animation on Jekyll Site
- -  Stop promotion of code to github if travis build fails
+ -  Stop promotion of code to github if build fails
  -  Add a donate link
  -  Add MIT License
  -  ︎Implement google search functionality on portal
